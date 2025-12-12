@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating tools in python, c++,  web and cli<br>👯 I’m looking to collaborate on open source <br>🤝 I’m looking for help with penetration testing an advance level (real time)<br>🌱 I’m currently learning penetration testing and security researcher.<br>💬 Ask me about anything so we can discuss and enhance our knowledge.<br>
+🔭 I’m currently working on creating tools in python, c++,  web and practice on tryhackme and hackerdna and also on Hackthebox<br>👯 I’m looking to collaborate on open source <br>🤝 I’m looking for help with penetration testing an advance level (real time)<br>🌱 I’m currently learning penetration testing and security researcher.<br>💬 Ask me about anything so we can discuss and enhance our knowledge.<br>
 
 
 ## 🌐 Socials:
