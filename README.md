@@ -31,10 +31,10 @@
   <a href="https://www.linkedin.com/in/imalizulqarnain/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com/p/yourusername" target="_blank">
+  <a href="https://tryhackme.com/p/im.alizulqarnain" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="https://app.hackthebox.com/profile/yourid" target="_blank">
+  <a href="https://account.hackthebox.com/imalizulqarnain" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   </a>
 </p>
